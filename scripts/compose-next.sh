@@ -1,0 +1,1 @@
+docker compose -f ./ci/next/compose.yml up -d
