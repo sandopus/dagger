@@ -1,0 +1,6 @@
+{
+  "dependencies": { "@dagger.io/dagger": "^0.9.10" },
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
